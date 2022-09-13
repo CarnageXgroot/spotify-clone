@@ -110,6 +110,11 @@ nav ul li {
     border-radius: 34px;
 }
 
+.songInfo span {
+    position: fixed;
+    bottom: 55px;
+}
+
 .timestamp {
     margin: 0 23px;
 }
